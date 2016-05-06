@@ -1,0 +1,4 @@
+# activemqMavenDemo
+my activeMqMavenDemo
+这个是首次提交activeMQ的Demo
+只是用于学习使用，并非用于其他检索
